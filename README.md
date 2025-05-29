@@ -50,7 +50,7 @@ A powerful and user-friendly event management platform to streamline the plannin
 > *(Add images using the Markdown syntax or embed directly)*
 
 ```md
-![Home Page](C:\Users\Falcon\Desktop\Screenshot 2025-05-29 101353)
+![Home Page](imagess\EventHub.png)
 
 ````
 
