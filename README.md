@@ -50,7 +50,8 @@ A powerful and user-friendly event management platform to streamline the plannin
 > *(Add images using the Markdown syntax or embed directly)*
 
 ```md
-![Home Page](https://ibb.co/TDj6t2SC)
+![Home Page]()
+![EventHub](https://github.com/user-attachments/assets/00ff5d4c-83bc-4e82-9ef1-0c5e9c85be85)
 
 ````
 
