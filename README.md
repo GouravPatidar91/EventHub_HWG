@@ -15,7 +15,7 @@ A powerful and user-friendly event management platform to streamline the plannin
 
 ## 📌 Live Demo
 
-🚀 [Check it out here](https://your-live-demo-link.com) *(Add your deployment link)*
+🚀 [Check it out here](https://eventhub-lake.vercel.app/)
 
 ---
 
@@ -50,8 +50,8 @@ A powerful and user-friendly event management platform to streamline the plannin
 > *(Add images using the Markdown syntax or embed directly)*
 
 ```md
-![Home Page](./screenshots/homepage.png)
-![Dashboard](./screenshots/dashboard.png)
+![Home Page](
+
 ````
 
 ---
